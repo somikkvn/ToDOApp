@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Список справ</string>
+    <string name="delete_all">Видалити все</string>
+    <string name="completed">ЗАВЕРШЕНО</string>
+    <string name="desc">Опис</string>
+    <string name="info">Інформація</string>
+    <string name="hint_name">Назва </string>
+    <string name="hint_description">Опис</string>
+    <string name="incomplete">НЕЗАВЕРШЕНО</string>
+
+    <string name="title_alert_dialog">Видалити завдання</string>
+    <string name="message_alert_dialog">Ви дійсно хочете видалити це завдання? Ця дія є незворотною.</string>
+
+    <string name="title_alert_dialog_all">Видалити всі завдання</string>
+    <string name="message_alert_dialog_all">Ви дійсно хочете видалити всі завдання? Ця дія є незворотною.</string>
+
+    <string name="button_positive">Прийняти</string>
+    <string name="button_negative">Скасувати</string>
+
+    <string name="text_name">Назва завдання: </string>
+    <string name="text_description">Опис завдання: </string>
+    <string name="status_task">Статус завдання</string>
+</resources>
